@@ -1,0 +1,68 @@
+# ARR License
+
+**Version 1.0 – © 2026 UNITRS. All rights reserved.**
+
+---
+
+## 1. Copyright Notice
+
+Copyright (c) 2026 **UNITRS**.  
+All rights reserved. The preceding copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+---
+
+## 2. Grant of Rights
+
+Permission to use, copy, modify, distribute, or sell this software and its documentation
+(collectively, the **“Software”**) is granted **only** under the terms of a separate,
+written license agreement executed between you (or the entity you represent) and **UNITRS**.
+
+---
+
+## 3. Restrictions
+
+You may **not**, without prior written consent from **UNITRS**:
+
+* Copy, reproduce, redistribute, or transfer the Software in any form;
+* Modify, adapt, translate, reverse engineer, decompile, or disassemble the Software;
+* Create derivative works based upon the Software;
+* Rent, lease, or lend the Software;
+* Use the Software for any commercial purpose beyond the scope of an authorized agreement.
+
+Any unauthorized use, copying, modification, or distribution of the Software violates
+this license and the intellectual‑property rights of **UNITRS**.
+
+---
+
+## 4. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL **UNITRS** OR ITS AUTHORS BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 5. Governing Law & Jurisdiction
+
+This license shall be governed by and construed in accordance with the laws of the
+**United States** (or the jurisdiction specified in your written agreement with UNITRS),
+without regard to its conflict‑of‑law provisions.
+
+---
+
+## 6. Contact Information
+
+If you have questions about this license or wish to obtain a written license agreement,
+please contact **UNITRS** at:
+
+- **Email**: legal@unitrs.com  
+- **Website**: https://unitrs.com/contact  
+
+---
+
+*This document is a template and should be reviewed by a qualified attorney before use in a
+commercial product or distribution scenario.*

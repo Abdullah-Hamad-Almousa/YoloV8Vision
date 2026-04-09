@@ -1,0 +1,257 @@
+{
+  "image": "my_image.jpg",
+  "total_elements": 20,
+  "elements": [
+    {
+      "type": "Icon",
+      "bbox": {
+        "x_min": 40,
+        "y_min": 1698,
+        "x_max": 1137,
+        "y_max": 1914
+      },
+      "center_x": 588,
+      "center_y": 1806,
+      "confidence": 0.9436
+    },
+    {
+      "type": "Switch",
+      "bbox": {
+        "x_min": 992,
+        "y_min": 173,
+        "x_max": 1137,
+        "y_max": 318
+      },
+      "center_x": 1064,
+      "center_y": 245,
+      "confidence": 0.8869
+    },
+    {
+      "type": "Switch",
+      "bbox": {
+        "x_min": 823,
+        "y_min": 172,
+        "x_max": 969,
+        "y_max": 321
+      },
+      "center_x": 896,
+      "center_y": 246,
+      "confidence": 0.8845
+    },
+    {
+      "type": "Card",
+      "bbox": {
+        "x_min": 41,
+        "y_min": 1105,
+        "x_max": 578,
+        "y_max": 1647
+      },
+      "center_x": 309,
+      "center_y": 1376,
+      "confidence": 0.8495
+    },
+    {
+      "type": "EditText",
+      "bbox": {
+        "x_min": 250,
+        "y_min": 388,
+        "x_max": 593,
+        "y_max": 536
+      },
+      "center_x": 421,
+      "center_y": 462,
+      "confidence": 0.8287
+    },
+    {
+      "type": "TextButton",
+      "bbox": {
+        "x_min": 57,
+        "y_min": 2312,
+        "x_max": 305,
+        "y_max": 2508
+      },
+      "center_x": 181,
+      "center_y": 2410,
+      "confidence": 0.7657
+    },
+    {
+      "type": "TextButton",
+      "bbox": {
+        "x_min": 522,
+        "y_min": 195,
+        "x_max": 663,
+        "y_max": 311
+      },
+      "center_x": 592,
+      "center_y": 253,
+      "confidence": 0.6792
+    },
+    {
+      "type": "CheckBox",
+      "bbox": {
+        "x_min": 486,
+        "y_min": 1130,
+        "x_max": 552,
+        "y_max": 1196
+      },
+      "center_x": 519,
+      "center_y": 1163,
+      "confidence": 0.6736
+    },
+    {
+      "type": "Bottom_Navigation",
+      "bbox": {
+        "x_min": 49,
+        "y_min": 2100,
+        "x_max": 1134,
+        "y_max": 2325
+      },
+      "center_x": 591,
+      "center_y": 2212,
+      "confidence": 0.6699
+    },
+    {
+      "type": "TextButton",
+      "bbox": {
+        "x_min": 38,
+        "y_min": 172,
+        "x_max": 187,
+        "y_max": 320
+      },
+      "center_x": 112,
+      "center_y": 246,
+      "confidence": 0.659
+    },
+    {
+      "type": "Card",
+      "bbox": {
+        "x_min": 595,
+        "y_min": 1101,
+        "x_max": 1141,
+        "y_max": 1644
+      },
+      "center_x": 868,
+      "center_y": 1372,
+      "confidence": 0.6063
+    },
+    {
+      "type": "Text",
+      "bbox": {
+        "x_min": 743,
+        "y_min": 2352,
+        "x_max": 850,
+        "y_max": 2486
+      },
+      "center_x": 796,
+      "center_y": 2419,
+      "confidence": 0.4968
+    },
+    {
+      "type": "CheckBox",
+      "bbox": {
+        "x_min": 707,
+        "y_min": 679,
+        "x_max": 759,
+        "y_max": 742
+      },
+      "center_x": 733,
+      "center_y": 710,
+      "confidence": 0.4967
+    },
+    {
+      "type": "Icon",
+      "bbox": {
+        "x_min": 306,
+        "y_min": 2317,
+        "x_max": 476,
+        "y_max": 2504
+      },
+      "center_x": 391,
+      "center_y": 2410,
+      "confidence": 0.4787
+    },
+    {
+      "type": "PageIndicator",
+      "bbox": {
+        "x_min": 547,
+        "y_min": 2349,
+        "x_max": 652,
+        "y_max": 2478
+      },
+      "center_x": 599,
+      "center_y": 2413,
+      "confidence": 0.4688
+    },
+    {
+      "type": "Switch",
+      "bbox": {
+        "x_min": 931,
+        "y_min": 2349,
+        "x_max": 1062,
+        "y_max": 2493
+      },
+      "center_x": 996,
+      "center_y": 2421,
+      "confidence": 0.4529
+    },
+    {
+      "type": "Icon",
+      "bbox": {
+        "x_min": 732,
+        "y_min": 168,
+        "x_max": 834,
+        "y_max": 330
+      },
+      "center_x": 783,
+      "center_y": 249,
+      "confidence": 0.3687
+    },
+    {
+      "type": "Switch",
+      "bbox": {
+        "x_min": 1034,
+        "y_min": 1123,
+        "x_max": 1112,
+        "y_max": 1212
+      },
+      "center_x": 1073,
+      "center_y": 1167,
+      "confidence": 0.3335
+    },
+    {
+      "type": "EditText",
+      "bbox": {
+        "x_min": 584,
+        "y_min": 387,
+        "x_max": 927,
+        "y_max": 533
+      },
+      "center_x": 755,
+      "center_y": 460,
+      "confidence": 0.3266
+    },
+    {
+      "type": "Text",
+      "bbox": {
+        "x_min": 669,
+        "y_min": 776,
+        "x_max": 732,
+        "y_max": 884
+      },
+      "center_x": 700,
+      "center_y": 830,
+      "confidence": 0.2571
+    }
+  ],
+  "summary": {
+    "Icon": 3,
+    "Switch": 4,
+    "Card": 2,
+    "EditText": 2,
+    "TextButton": 3,
+    "CheckBox": 2,
+    "Bottom_Navigation": 1,
+    "Text": 2,
+    "PageIndicator": 1
+  }
+}

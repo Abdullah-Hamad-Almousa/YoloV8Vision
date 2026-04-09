@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(python main.py)",
+      "Bash(python -c \"from ultralytics import YOLO; m = YOLO\\('weights/icon_detect/icon_detect/model.pt'\\); print\\('Classes:', m.names\\)\")",
+      "Bash(python -c ':*)"
+    ]
+  }
+}
